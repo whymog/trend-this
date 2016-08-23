@@ -5,6 +5,6 @@ The Trending widget has been getting under my skin for quite some time, so I wro
 
 If you want to install it yourself:  
 
-1. Clone this repository  
+1. Clone this repository or download and unzip the .zip file
 2. In Chrome, navigate to `chrome://extensions` and check the "Developer mode" checkbox at the top  
 3. Click "Load unpacked extension..." and navigate to the folder you cloned  
