@@ -1,4 +1,4 @@
-#Trend This, Buddy  
+#Trend This, Buddy_!!_  
 ##A Chrome Extension for hiding Facebook's Trending section from the News Feed sidebar  
 
 The Trending widget has been getting under my skin for quite some time, so I wrote a quick fix to get rid of it. 
