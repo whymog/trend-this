@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Trend This, Buddy",
+  "version": "1.0",
+
+  "description": "Spares you the mental baggage of having to look at Facebook's trending stories every time you load News Feed.",
+
+  "author": "Nick Cummings",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": ["activeTab", "webNavigation", "https://*.facebook.com/"],
+  "short_name": "Trend This"
+}
